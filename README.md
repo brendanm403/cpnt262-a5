@@ -1,6 +1,7 @@
 # cpnt262 Assignment 5: Components and Props
 - brendan malycky
 - [github page](https://brendanm403.github.io/cpnt262-a5/)
+- [netlify deployment](https://astonishing-strudel-7ddd36.netlify.app/)
 ## Search Terms
 ### svelte import data
 - how do I import an array in sveltekit?
