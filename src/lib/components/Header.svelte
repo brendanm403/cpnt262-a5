@@ -9,6 +9,7 @@
 <header class="bg-gray-400 p-5">
   <nav class="flex justify-center">
     <ul class="flex">
+      <!-- loop through navlinks array to display links -->
       {#each navLinks as {name, href}}
         <li class="mx-4"><a class="p-2" {href}>{name}</a></li>
       {/each}

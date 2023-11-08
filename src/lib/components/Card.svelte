@@ -17,4 +17,3 @@ export let release = "placeholder date"
     </article>
   </a>
 </div>
-

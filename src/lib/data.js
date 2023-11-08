@@ -1,3 +1,4 @@
+// array of objects containing card data
 export const albumData = [
   {
   title: "Ride The Lightning",
